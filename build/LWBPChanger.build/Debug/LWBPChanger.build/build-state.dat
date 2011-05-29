@@ -1,0 +1,270 @@
+TLWBPChanger
+v7
+r0
+t328368141.848372
+cCheck dependencies
+cProcessInfoPlistFile /Users/deritaufan/Documents/LWBPChanger/build/Debug/LWBPChanger.app/Contents/Info.plist Info.plist
+cCopyStringsFile /Users/deritaufan/Documents/LWBPChanger/build/Debug/LWBPChanger.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/deritaufan/Documents/LWBPChanger/English.lproj/MainMenu.xib
+cCpResource build/Debug/LWBPChanger.app/Contents/Resources/LWBP.icns LWBP.icns
+cProcessPCH /var/folders/0X/0XpJ73ZdFDOb5rJxAxPsvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LWBPChanger_Prefix-bbvgthbdrkiaogbchszgyktzbkzr/LWBPChanger_Prefix.pch.gch LWBPChanger_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LWBPChanger.build/Debug/LWBPChanger.build/Objects-normal/i386/main.o /Users/deritaufan/Documents/LWBPChanger/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LWBPChanger.build/Debug/LWBPChanger.build/Objects-normal/i386/AppController.o /Users/deritaufan/Documents/LWBPChanger/AppController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LWBPChanger.build/Debug/LWBPChanger.build/Objects-normal/i386/FileDropView.o /Users/deritaufan/Documents/LWBPChanger/FileDropView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LWBPChanger.build/Debug/LWBPChanger.build/Objects-normal/i386/NSImageUtils.o /Users/deritaufan/Documents/LWBPChanger/NSImageUtils.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/deritaufan/Documents/LWBPChanger/build/Debug/LWBPChanger.app/Contents/MacOS/LWBPChanger normal i386
+cTouch /Users/deritaufan/Documents/LWBPChanger/build/Debug/LWBPChanger.app
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004C7BF48600000000000000EE
+t1283191942
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/deritaufan/Documents/LWBPChanger/AppController.h
+c000000004A8E31E8000000000000016D
+t1250832872
+s365
+i<Cocoa/Cocoa.h>
+
+N/Users/deritaufan/Documents/LWBPChanger/AppController.m
+c000000004A8E31E80000000000000BA9
+t1250832872
+s2985
+i"AppController.h"
+i"FileDropView.h"
+
+N/Users/deritaufan/Documents/LWBPChanger/English.lproj/InfoPlist.strings
+c000000004A86A528000000000000005C
+t1250338088
+s92
+
+N/Users/deritaufan/Documents/LWBPChanger/English.lproj/MainMenu.xib
+c000000004DE2487B0000000000010067
+t1306675323
+s65639
+
+N/Users/deritaufan/Documents/LWBPChanger/FileDropView.h
+c000000004A86EA0A0000000000000111
+t1250355722
+s273
+i<Cocoa/Cocoa.h>
+
+N/Users/deritaufan/Documents/LWBPChanger/FileDropView.m
+c000000004A86EA1E0000000000000B63
+t1250355742
+s2915
+i"NSImageUtils.h"
+i"FileDropView.h"
+
+N/Users/deritaufan/Documents/LWBPChanger/LWBP.icns
+c000000004A86ADA20000000000047046
+t1250340258
+s290886
+
+N/Users/deritaufan/Documents/LWBPChanger/LWBPChanger_Prefix.pch
+c000000004A86A5280000000000000099
+t1250338088
+s153
+i<Cocoa/Cocoa.h>
+
+N/Users/deritaufan/Documents/LWBPChanger/NSImageUtils.h
+c000000004A86A78600000000000000F1
+t1250338694
+s241
+
+N/Users/deritaufan/Documents/LWBPChanger/NSImageUtils.m
+c000000004A86A75800000000000006AD
+t1250338648
+s1709
+i"NSImageUtils.h"
+
+N/Users/deritaufan/Documents/LWBPChanger/build/Debug/LWBPChanger.app
+t1306675341
+s102
+
+N/Users/deritaufan/Documents/LWBPChanger/build/Debug/LWBPChanger.app/Contents/Info.plist
+t1306675337
+s908
+
+N/Users/deritaufan/Documents/LWBPChanger/build/Debug/LWBPChanger.app/Contents/MacOS/LWBPChanger
+t1306675341
+s20536
+
+N/Users/deritaufan/Documents/LWBPChanger/build/Debug/LWBPChanger.app/Contents/PkgInfo
+t1306675337
+s8
+
+N/Users/deritaufan/Documents/LWBPChanger/build/Debug/LWBPChanger.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1306675337
+s92
+
+N/Users/deritaufan/Documents/LWBPChanger/build/Debug/LWBPChanger.app/Contents/Resources/English.lproj/MainMenu.nib
+t1306675337
+s10116
+
+N/Users/deritaufan/Documents/LWBPChanger/build/Debug/LWBPChanger.app/Contents/Resources/LWBP.icns
+t1250362174
+s290886
+
+N/Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/Objects-normal/i386/AppController.o
+t1306675341
+s20924
+
+N/Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/Objects-normal/i386/FileDropView.o
+t1306675341
+s20836
+
+N/Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/Objects-normal/i386/LWBPChanger.LinkFileList
+c000000004A87033E00000000000001E5
+t1250362174
+s485
+
+N/Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/Objects-normal/i386/NSImageUtils.o
+t1306675341
+s9416
+
+N/Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/Objects-normal/i386/main.o
+t1306675341
+s4856
+
+N/Users/deritaufan/Documents/LWBPChanger/main.m
+c000000004A86A5280000000000000100
+t1250338088
+s256
+i<Cocoa/Cocoa.h>
+
+N/var/folders/0X/0XpJ73ZdFDOb5rJxAxPsvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LWBPChanger_Prefix-bbvgthbdrkiaogbchszgyktzbkzr/LWBPChanger_Prefix.pch.gch
+t1306675341
+s54071728
+
+NInfo.plist
+c000000004A8702E400000000000003A6
+t1250362084
+s934
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies328368137#328368137#0(0"0(0#1#0"32651522506817640#0"0#
+
+CCompileC build/LWBPChanger.build/Debug/LWBPChanger.build/Objects-normal/i386/AppController.o /Users/deritaufan/Documents/LWBPChanger/AppController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328368141.341751
+e328368141.561175
+r1
+xCompileC
+xbuild/LWBPChanger.build/Debug/LWBPChanger.build/Objects-normal/i386/AppController.o
+x/Users/deritaufan/Documents/LWBPChanger/AppController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/deritaufan/Documents/LWBPChanger/AppController.m328368141#328368141#0(0"0(0#0#55"/Users/deritaufan/Documents/LWBPChanger/AppController.m8600803264#1551"    cd /Users/deritaufan/Documents/LWBPChanger    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/LWBPChanger-generated-files.hmap -I/Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/LWBPChanger-own-target-headers.hmap -I/Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/LWBPChanger-all-target-headers.hmap -iquote /Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/LWBPChanger-project-headers.hmap -F/Users/deritaufan/Documents/LWBPChanger/build/Debug -I/Users/deritaufan/Documents/LWBPChanger/build/Debug/include -I/Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/DerivedSources/i386 -I/Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/DerivedSources -include /var/folders/0X/0XpJ73ZdFDOb5rJxAxPsvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LWBPChanger_Prefix-bbvgthbdrkiaogbchszgyktzbkzr/LWBPChanger_Prefix.pch -c /Users/deritaufan/Documents/LWBPChanger/AppController.m -o /Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/Objects-normal/i386/AppController.o0#
+
+CCompileC build/LWBPChanger.build/Debug/LWBPChanger.build/Objects-normal/i386/FileDropView.o /Users/deritaufan/Documents/LWBPChanger/FileDropView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328368141.520464
+e328368141.741728
+r1
+xCompileC
+xbuild/LWBPChanger.build/Debug/LWBPChanger.build/Objects-normal/i386/FileDropView.o
+x/Users/deritaufan/Documents/LWBPChanger/FileDropView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/deritaufan/Documents/LWBPChanger/FileDropView.m328368141#328368141#0(0"0(0#0#54"/Users/deritaufan/Documents/LWBPChanger/FileDropView.m8599947296#1549"    cd /Users/deritaufan/Documents/LWBPChanger    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/LWBPChanger-generated-files.hmap -I/Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/LWBPChanger-own-target-headers.hmap -I/Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/LWBPChanger-all-target-headers.hmap -iquote /Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/LWBPChanger-project-headers.hmap -F/Users/deritaufan/Documents/LWBPChanger/build/Debug -I/Users/deritaufan/Documents/LWBPChanger/build/Debug/include -I/Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/DerivedSources/i386 -I/Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/DerivedSources -include /var/folders/0X/0XpJ73ZdFDOb5rJxAxPsvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LWBPChanger_Prefix-bbvgthbdrkiaogbchszgyktzbkzr/LWBPChanger_Prefix.pch -c /Users/deritaufan/Documents/LWBPChanger/FileDropView.m -o /Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/Objects-normal/i386/FileDropView.o0#
+
+CCompileC build/LWBPChanger.build/Debug/LWBPChanger.build/Objects-normal/i386/NSImageUtils.o /Users/deritaufan/Documents/LWBPChanger/NSImageUtils.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328368141.561283
+e328368141.725513
+r1
+xCompileC
+xbuild/LWBPChanger.build/Debug/LWBPChanger.build/Objects-normal/i386/NSImageUtils.o
+x/Users/deritaufan/Documents/LWBPChanger/NSImageUtils.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/deritaufan/Documents/LWBPChanger/NSImageUtils.m328368141#328368141#0(0"0(0#0#54"/Users/deritaufan/Documents/LWBPChanger/NSImageUtils.m8602705280#1549"    cd /Users/deritaufan/Documents/LWBPChanger    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/LWBPChanger-generated-files.hmap -I/Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/LWBPChanger-own-target-headers.hmap -I/Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/LWBPChanger-all-target-headers.hmap -iquote /Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/LWBPChanger-project-headers.hmap -F/Users/deritaufan/Documents/LWBPChanger/build/Debug -I/Users/deritaufan/Documents/LWBPChanger/build/Debug/include -I/Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/DerivedSources/i386 -I/Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/DerivedSources -include /var/folders/0X/0XpJ73ZdFDOb5rJxAxPsvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LWBPChanger_Prefix-bbvgthbdrkiaogbchszgyktzbkzr/LWBPChanger_Prefix.pch -c /Users/deritaufan/Documents/LWBPChanger/NSImageUtils.m -o /Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/Objects-normal/i386/NSImageUtils.o0#
+
+CCompileC build/LWBPChanger.build/Debug/LWBPChanger.build/Objects-normal/i386/main.o /Users/deritaufan/Documents/LWBPChanger/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328368141.340538
+e328368141.520347
+r1
+xCompileC
+xbuild/LWBPChanger.build/Debug/LWBPChanger.build/Objects-normal/i386/main.o
+x/Users/deritaufan/Documents/LWBPChanger/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/deritaufan/Documents/LWBPChanger/main.m328368141#328368141#0(0"0(0#0#46"/Users/deritaufan/Documents/LWBPChanger/main.m8600881696#1533"    cd /Users/deritaufan/Documents/LWBPChanger    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/LWBPChanger-generated-files.hmap -I/Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/LWBPChanger-own-target-headers.hmap -I/Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/LWBPChanger-all-target-headers.hmap -iquote /Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/LWBPChanger-project-headers.hmap -F/Users/deritaufan/Documents/LWBPChanger/build/Debug -I/Users/deritaufan/Documents/LWBPChanger/build/Debug/include -I/Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/DerivedSources/i386 -I/Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/DerivedSources -include /var/folders/0X/0XpJ73ZdFDOb5rJxAxPsvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LWBPChanger_Prefix-bbvgthbdrkiaogbchszgyktzbkzr/LWBPChanger_Prefix.pch -c /Users/deritaufan/Documents/LWBPChanger/main.m -o /Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/deritaufan/Documents/LWBPChanger/English.lproj/MainMenu.xib
+s328368137.453455
+e328368137.798152
+r1
+xCompileXIB
+x/Users/deritaufan/Documents/LWBPChanger/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib328368137#328368137#0(0"0(0#0#66"/Users/deritaufan/Documents/LWBPChanger/English.lproj/MainMenu.xib8600555296#371"    cd /Users/deritaufan/Documents/LWBPChanger    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/deritaufan/Documents/LWBPChanger/build/Debug/LWBPChanger.app/Contents/Resources/English.lproj/MainMenu.nib /Users/deritaufan/Documents/LWBPChanger/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.5.sdk0#
+
+CCopyStringsFile /Users/deritaufan/Documents/LWBPChanger/build/Debug/LWBPChanger.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s328368137.450872
+e328368137.500384
+r1
+xCopyStringsFile
+x/Users/deritaufan/Documents/LWBPChanger/build/Debug/LWBPChanger.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings328368137#328368137#0(0"0(0#0#71"/Users/deritaufan/Documents/LWBPChanger/English.lproj/InfoPlist.strings8601075872#372"    cd /Users/deritaufan/Documents/LWBPChanger    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/deritaufan/Documents/LWBPChanger/build/Debug/LWBPChanger.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/LWBPChanger.app/Contents/Resources/LWBP.icns LWBP.icns
+r0
+
+CLd /Users/deritaufan/Documents/LWBPChanger/build/Debug/LWBPChanger.app/Contents/MacOS/LWBPChanger normal i386
+s328368141.741825
+e328368141.843390
+r1
+xLd
+x/Users/deritaufan/Documents/LWBPChanger/build/Debug/LWBPChanger.app/Contents/MacOS/LWBPChanger
+xnormal
+xi386
+lSLF07#2@99"Link /Users/deritaufan/Documents/LWBPChanger/build/Debug/LWBPChanger.app/Contents/MacOS/LWBPChanger328368141#328368141#0(0"0(0#0#0"8601193984#563"    cd /Users/deritaufan/Documents/LWBPChanger    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/deritaufan/Documents/LWBPChanger/build/Debug -F/Users/deritaufan/Documents/LWBPChanger/build/Debug -filelist /Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/Objects-normal/i386/LWBPChanger.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -o /Users/deritaufan/Documents/LWBPChanger/build/Debug/LWBPChanger.app/Contents/MacOS/LWBPChanger0#
+
+CProcessInfoPlistFile /Users/deritaufan/Documents/LWBPChanger/build/Debug/LWBPChanger.app/Contents/Info.plist Info.plist
+s328368137.443789
+e328368137.450772
+r1
+xProcessInfoPlistFile
+x/Users/deritaufan/Documents/LWBPChanger/build/Debug/LWBPChanger.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist328368137#328368137#0(0"0(0#0#50"/Users/deritaufan/Documents/LWBPChanger/Info.plist18577722130038832#313"    cd /Users/deritaufan/Documents/LWBPChanger    builtin-infoPlistUtility Info.plist -genpkginfo /Users/deritaufan/Documents/LWBPChanger/build/Debug/LWBPChanger.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/deritaufan/Documents/LWBPChanger/build/Debug/LWBPChanger.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/0X/0XpJ73ZdFDOb5rJxAxPsvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LWBPChanger_Prefix-bbvgthbdrkiaogbchszgyktzbkzr/LWBPChanger_Prefix.pch.gch LWBPChanger_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s328368137.798327
+e328368141.340325
+r1
+xProcessPCH
+x/var/folders/0X/0XpJ73ZdFDOb5rJxAxPsvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LWBPChanger_Prefix-bbvgthbdrkiaogbchszgyktzbkzr/LWBPChanger_Prefix.pch.gch
+xLWBPChanger_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile LWBPChanger_Prefix.pch328368137#328368141#0(0"0(0#0#62"/Users/deritaufan/Documents/LWBPChanger/LWBPChanger_Prefix.pch8601041888#1436"    cd /Users/deritaufan/Documents/LWBPChanger    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/LWBPChanger-generated-files.hmap -I/Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/LWBPChanger-own-target-headers.hmap -I/Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/LWBPChanger-all-target-headers.hmap -iquote /Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/LWBPChanger-project-headers.hmap -F/Users/deritaufan/Documents/LWBPChanger/build/Debug -I/Users/deritaufan/Documents/LWBPChanger/build/Debug/include -I/Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/DerivedSources/i386 -I/Users/deritaufan/Documents/LWBPChanger/build/LWBPChanger.build/Debug/LWBPChanger.build/DerivedSources -c /Users/deritaufan/Documents/LWBPChanger/LWBPChanger_Prefix.pch -o /var/folders/0X/0XpJ73ZdFDOb5rJxAxPsvU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LWBPChanger_Prefix-bbvgthbdrkiaogbchszgyktzbkzr/LWBPChanger_Prefix.pch.gch0#
+
+CTouch /Users/deritaufan/Documents/LWBPChanger/build/Debug/LWBPChanger.app
+s328368141.843493
+e328368141.848177
+r1
+xTouch
+x/Users/deritaufan/Documents/LWBPChanger/build/Debug/LWBPChanger.app
+lSLF07#2@73"Touch /Users/deritaufan/Documents/LWBPChanger/build/Debug/LWBPChanger.app328368141#328368141#0(0"0(0#0#0"8600847840#137"    cd /Users/deritaufan/Documents/LWBPChanger    /usr/bin/touch -c /Users/deritaufan/Documents/LWBPChanger/build/Debug/LWBPChanger.app0#
+
